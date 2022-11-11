@@ -1,5 +1,22 @@
 /* your code here */
 
+body {
+	padding: 10px;
+}
+
+.secondWrapper {
+	display: flex;
+	gap: 10px;
+}
+
+section {
+	width: 80%;
+}
+
+nav {
+	width: 20%;
+}
+
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
